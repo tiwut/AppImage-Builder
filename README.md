@@ -38,9 +38,8 @@ sudo apt install build-essential cmake qt6-base-dev file wget
 Compile the builder natively on your system using CMake:
 
 ```bash
-# Clone your repository (Change YOUR_USERNAME to your actual GitHub username)
-git clone https://github.com/YOUR_USERNAME/AppImageBuilder.git
-cd AppImageBuilder
+git clone https://github.com/tiwut/AppImage-Builder.git
+cd AppImage-Builder
 
 # Build the tool
 mkdir build
