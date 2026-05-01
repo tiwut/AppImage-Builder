@@ -74,4 +74,3 @@ If you forget this, the Builder's Smart Validation will catch it and warn you be
 
 ## License
 This project is licensed under the [GPL v3 License](LICENSE).
-```
